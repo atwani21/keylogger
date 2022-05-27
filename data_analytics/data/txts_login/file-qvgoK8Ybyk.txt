@@ -1,0 +1,29 @@
+Customizing » Ultimate Member
+
+Login Page
+
+Page Background Image
+
+No image selected
+
+Select image
+
+Login Page Background Color
+
+Select Color
+
+Login Page Box Color
+
+Select Color
+
+Button Text
+
+Select Color
+
+Register Button
+
+Select Color
+
+Register Button Text
+
+eee

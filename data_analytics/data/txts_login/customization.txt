@@ -1,0 +1,18 @@
+Customization Company Logo
+
+@ Your logo URL
+
+If a URL is not provided, the AuthO logo will be used.
+
+Primary Color
+
+BB tea5323
+
+Primary button background color
+
+Page Background Color
+Bl #000000
+
+Background color of your login pages
+
+SAVE CHANGES
