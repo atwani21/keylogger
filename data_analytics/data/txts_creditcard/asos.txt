@@ -1,0 +1,20 @@
+“The following errors have occurred:
+
+‘= the card number contains invalid characters
+
+we? See
+L2e
+
+Card Number |) Se)
+
+Cardholder Name
+
+End Date (mmyyy) |
+
+Start Date (mm/yy)
+
+Issue Number (Optional
+
+“Remember these details for future use
+
+(Optional

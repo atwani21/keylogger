@@ -30,3 +30,34 @@ Log In
 Border (Example: 2px dotted black):
 
 © Hide Controls
+x
+
+LOGIN FORM: e
+
+Enable Form Transparency: &
+
+Form Width:
+
+0 @
+
+Form Minimum Height:
+2 @ Ef
+Form Radius:
+
+or |
+
+Form Shadow:
+OX >
+Form Shadow Opacity:
+
+or | =<
+
+Form Padding:
+
+Log In
+
+0 24px 12px
+
+Border (Example: 2px dotted black):
+
+@ Hide Controls

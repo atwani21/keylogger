@@ -1,0 +1,58 @@
+Payment.
+
+How would you like to pay?
+
+Add Gift Cards
+
+@ cara
+
+First name*
+
+Please enter your first name
+
+Last name *
+
+Please enter your last name
+
+Card number *
+
+Expiration date *
+
+Card expiration date
+
+Cardholder address
+
+220 Simcoe St
+Toronto ON, MST 1T4
+
+VISA @® VISA
+
+cvv/cvc *
+
+3-4 digit security code printed
+onyour card
+
+Discounts Apply discount
+Order value $39.99
+Delivery FREE
+GST/HST $5.20
+Total $45.19
+
+We will process your personal data in accordance with
+
+H&M’s Privacy Notice.
+
+By continuing, you agree to
+H&iM's General Terms and Conditions
+
+Please note that the tax amount is an estimation and
+
+the final amount can change.
+
+Complete purchase
+
+Customer Service
+
+Need help? Please contact Customer Service.
+
+&)_ Delivery and return options

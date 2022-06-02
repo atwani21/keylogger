@@ -1,0 +1,8 @@
+Payment Details
+
+Name on Card Credit Card Number cw Expiration Date
+
+Enter your name here Enter number here Enter CV here MM
+
+Shipping Details
+

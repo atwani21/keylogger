@@ -22,3 +22,15 @@ Password
 
 Stay logged in
 
+Custom Login Page Company Name
+
+Custom Login
+
+Username
+
+_SystemAdministrator —¥
+
+Password
+
+Stay logged in
+

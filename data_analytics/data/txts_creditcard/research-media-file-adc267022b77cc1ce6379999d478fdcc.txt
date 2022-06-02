@@ -1,0 +1,31 @@
+& Secure Checkout Edit Shopping Bag
+
+Y 1. Shipping Information Order Summary
+” 1 item in Bag: $4.95
+Y 2. Billing Address Shipping & Handling: $6.00
+
+3. Payment Options ‘Subtotal: $10.95
+Est. Tax: $0.90
+Balance to be Applied
+B PayPal toCreditCard $11.85
+
+© Credit Card
+
+Credit Card Number (we accept all major credit cards)
+
+[oS FREE SHIPPING with
+XK XXXX XXXX XK $50 Purchase. Details
+
+Expiration Security Code CONTINUE TO REVIEW ORDER
+{Month +) [Year +) What's this?
+
+Bean Bucks
+$0.00 Available
+
+What are Bean Bucks?
+
+Norton
+
+SECURED
+
+by Verisign

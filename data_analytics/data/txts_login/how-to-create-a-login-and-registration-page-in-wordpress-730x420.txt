@@ -5,3 +5,10 @@ Registration Page
 in WordPress
 
 @) Formidable
+“
+Create a Login and s +
+
+Registration Page
+in WordPress
+
+@) Formidable

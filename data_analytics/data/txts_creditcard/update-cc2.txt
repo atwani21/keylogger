@@ -1,0 +1,24 @@
+Update Credit Card
+Card Number:
+Expiration Date:
+
+Security Code:
+
+Postal Code:
+
+Update Credit Card
+
+34 1234
+
+3 digits - back of Visa - MC - Discover
+4 digits - front right of American Express
+click here to find your Security Code
+
+90210
+
+Please note that for PCI and privacy/security reasons, credit card data
+
+s transmitted via this form directly to our third party payment
+processor, Stripe, and is not retained by pair Networks. Please review
+the Stripe Terms and Conditions and Privacy policies.
+
