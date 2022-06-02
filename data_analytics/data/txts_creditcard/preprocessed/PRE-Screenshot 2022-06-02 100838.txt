@@ -5,9 +5,6 @@ payment
 method
 customer
 information
-payment
-method
-payment
 details
 ubtot
 transaction

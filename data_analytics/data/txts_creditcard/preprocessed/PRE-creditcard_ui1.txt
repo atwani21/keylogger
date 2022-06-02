@@ -14,12 +14,8 @@ card
 atomic
 leagues
 llc
-credit
-card
-card
 number
 name
-card
 expires
 security
 code
@@ -28,12 +24,7 @@ find
 this
 address
 line
-address
-line
 lunderstand
-atomic
-leagues
 process
 refunds
 more
-information

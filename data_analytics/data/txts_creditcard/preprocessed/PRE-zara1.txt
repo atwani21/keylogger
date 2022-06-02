@@ -3,9 +3,7 @@ your
 card
 details
 visa
-card
 number
-card
 holder
 expiry
 date

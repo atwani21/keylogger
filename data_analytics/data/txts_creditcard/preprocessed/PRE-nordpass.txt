@@ -4,16 +4,12 @@ card
 details
 cardholder
 name
-card
 number
-required
 expiration
 date
-card
 pin
 oe
 cvv
 zip
 postal
 code
-oe

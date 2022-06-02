@@ -2,9 +2,7 @@ enter
 your
 card
 details
-card
 number
-card
 holder
 expiry
 date

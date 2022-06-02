@@ -9,8 +9,6 @@ invalid
 characters
 we
 see
-card
-number
 se
 cardholder
 name
@@ -18,14 +16,11 @@ end
 date
 mmyyy
 start
-date
 mm
 yy
 issue
-number
 optional
 remember
 details
 future
 use
-optional

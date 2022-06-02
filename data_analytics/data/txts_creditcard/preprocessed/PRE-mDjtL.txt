@@ -3,17 +3,11 @@ details
 name
 card
 credit
-card
 number
 cw
 expiration
 date
 enter
-name
-enter
-number
-enter
 cv
 mm
 shipping
-details
