@@ -1,8 +1,0 @@
-confirm
-purchase
-owner
-cw
-card
-number
-expiration
-date

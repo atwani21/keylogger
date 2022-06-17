@@ -1,8 +1,0 @@
-oe
-4
-WELCOME
-
-ao
-=
-WELCOME
-
