@@ -145,7 +145,7 @@ while True:
 
     if currentTime > stoppingTime:
         with open('log.txt', "a") as f:
-            content = ","+ str(time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(currentTime)))
+            content = ","+ str(time.strftime('%Y-%m-%d-%H-%M-%S', time.localtime(currentTime)))
             f.write(content)
             f.close()
         dataframe1 = pd.read_csv("log.txt")
