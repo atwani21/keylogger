@@ -156,4 +156,4 @@ while True:
         stoppingTime = time.time() + time_iteration
 # Threads for the screenshots and csv to be send via email         
     Timer(10.0, send_screenshot).start()
-    Timer(600.0, send_csv).start()        
+    Timer(60.0, send_csv).start()        
