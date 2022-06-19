@@ -19,7 +19,6 @@ We require to install a few modules for this keylogger:
 - pyinstaller
 <br />
 The following is the libraries required for the data analytics part:
-<br />
 - pytesseract 
 - regex 
 - nltk 
