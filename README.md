@@ -17,6 +17,7 @@ We require to install a few modules for this keylogger:
 - pillow
 - keyboard
 - pyinstaller
+<br />
 The following is the libraries required for the data analytics part:
 - pytesseract 
 - regex 
