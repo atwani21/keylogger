@@ -1,4 +1,4 @@
-# 2IC80-GROUP 41- WhetsApp- The Trojan Keylogger
+# WhetsApp- The Trojan Keylogger
 
 ## DISCLAIMER 
 This project is meant for educational purposes only. We take no responsibility in how the code is used. The use of the code is the complete responsibility of the end user. The developers of the code are in no way liable and responsbile for any misuse.
